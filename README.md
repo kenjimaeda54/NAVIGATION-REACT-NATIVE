@@ -2,7 +2,7 @@
 Navegação com React Native
 - Navegação entre telas com React Native
 - Uso da navegação entre telas ,utilizando Expo como aplicação e react navite/ stack
-- Essa navegação por padrão criar um header na parte superior do aplicativo
+- Essa navegação por padrão cria um header na parte superior do aplicativo
 
 - Para instalar a biblioteca de navegação   npm install @react-navigation/native
 - Quem esta usando expo como aplicação deve instalar tabem esta biblioteca abaixo
